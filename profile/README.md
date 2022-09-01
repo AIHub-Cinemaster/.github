@@ -8,11 +8,11 @@ CINEMATER </br>
 
 
 ## UI
-![image](https://user-images.githubusercontent.com/11794584/187943991-d4ada81d-81df-49fd-8ef3-886278cefffb.png)
-
-## Work Flow
-![image](https://user-images.githubusercontent.com/11794584/187943870-ba00dd91-cc0a-4bb9-8d12-36752a416300.png)
-
-## System Architecture
+![image](https://user-images.githubusercontent.com/11794584/187943991-d4ada81d-81df-49fd-8ef3-886278cefffb.png)![image](https://user-images.githubusercontent.com/11794584/187943870-ba00dd91-cc0a-4bb9-8d12-36752a416300.png)
 ![image](https://user-images.githubusercontent.com/11794584/187944097-9140e1b6-8b9c-4307-b615-da9b3d1c45a2.png)
 </div>
+
+## Work Flow
+
+
+## System Architecture
